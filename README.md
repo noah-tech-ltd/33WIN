@@ -1,4 +1,4 @@
-# Corona
+# 33Win
 
 ## Layout reference
 
@@ -8,5 +8,5 @@
 ## Deploy
 
 ```
-ng deploy --base-href=/Corona/
+ng deploy --base-href=/33WIN/
 ```
